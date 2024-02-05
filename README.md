@@ -5,3 +5,8 @@
 
 3. Hosted Link :
    https://satyam-software-developer.github.io/Currency-Converter/
+
+Feature
+ * Search for meals: Users can enter keywords to search for specific meals.
+ * 
+
